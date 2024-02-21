@@ -20,10 +20,10 @@ sections/03-conclusion.qmd
 # Include the external Python file
 :::
 
-:::python
+:::python:results
 # Now, we can use functions from the external file
-from my_code import greet
+from test import test_function
 
 # Use the function
-result = greet("Quarto")
+result = test_function()
 result
