@@ -1,0 +1,13 @@
+# My Presentation
+
+::: include
+sections/01-introduction.qmd
+:::
+
+::: include
+sections/02-main-content.qmd
+:::
+
+::: include
+sections/03-conclusion.qmd
+:::
