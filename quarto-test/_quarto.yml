@@ -1,3 +1,5 @@
+#path: C:\Users\kaiba\OneDrive\Asztali gép\Quarto-Test\quarto-test\_quarto.yml
+
 quarto:
   theme:
     name: default
@@ -6,3 +8,4 @@ quarto:
     dir: "_output"
   source:
     dir: "sections"
+
