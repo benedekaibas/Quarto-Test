@@ -11,3 +11,19 @@ sections/02-main-content.qmd
 ::: include
 sections/03-conclusion.qmd
 :::
+
+# Including Python code in the presentation
+
+
+```python
+:::python
+# Include the external Python file
+:::
+
+:::python
+# Now, we can use functions from the external file
+from my_code import greet
+
+# Use the function
+result = greet("Quarto")
+result
