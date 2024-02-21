@@ -1,0 +1,8 @@
+quarto:
+  theme:
+    name: default
+    color: blue
+  output:
+    dir: "_output"
+  source:
+    dir: "sections"
